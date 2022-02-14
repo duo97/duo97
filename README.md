@@ -1,6 +1,6 @@
 ### Hi there, I am Duo Ju! 👋
 
-Here are some ideas to get you started:
+I am a graduate student and a software engineer.
 
 - 🔭 I’m currently working on a virtual music clubhouse, and a fault-tolerant key/value storage system.
 - 🌱 I’m currently learning three.js/react-three-fiber & distributed computer system engineering(MIT 6.824).
